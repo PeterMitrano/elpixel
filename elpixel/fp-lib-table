@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name WS2811-SOP8)(type Legacy)(uri /home/pmitrano/Documents/components_library/LIB_WS2811-SOP8/WS2811-SOP8/KiCad/WS2811-SOP8.mod)(options "")(descr ""))
+  (lib (name HV8xx)(type KiCad)(uri /home/pmitrano/Documents/components_library/HV850/HV8xx.pretty)(options "")(descr ""))
+)

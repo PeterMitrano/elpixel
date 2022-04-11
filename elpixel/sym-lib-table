@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name WS2811-SOP8)(type Legacy)(uri /home/pmitrano/Documents/components_library/LIB_WS2811-SOP8/WS2811-SOP8/KiCad/WS2811-SOP8.lib)(options "")(descr ""))
+  (lib (name HV8xx)(type Legacy)(uri /home/pmitrano/Documents/components_library/HV850/HV8xx.lib)(options "")(descr ""))
+)
